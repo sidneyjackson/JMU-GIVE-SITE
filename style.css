@@ -1,0 +1,268 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+/* START ALL PAGES */
+.navbar {
+	background-color: #1E5B2E;
+}
+.navbar-nav {
+	text-align: center;
+	margin: auto;
+}
+.nav-item{
+	color: white;
+	font-family: 'Raleway';
+}
+footer {
+	background-color: #D8EAC6;
+	text-align: center;
+	height: 50px;
+	padding-top: 13px;
+	font-family: 'Raleway';
+}
+#header {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+a:link {
+	font-family: 'Raleway';
+}
+/* END ALL PAGES */
+
+
+
+/* START HOME PAGE */
+#wstatement {
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+#groupphoto {
+	max-width: 100%;
+	height: auto;
+}
+#welcome {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+}
+/* END HOME PAGE */
+
+
+
+/* START ABOUT PAGE */
+#whoweare {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+#sunrise {
+	max-width: 100%;
+	height: auto;
+	}
+#protest {
+	max-width: 100%;
+	height: auto;
+	}
+#values {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+}
+#mission {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+}
+#mstatement {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+#vstatement {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+/* END ABOUT PAGE */
+
+
+
+/* START VOLUNTEER PAGE */
+#volunteeropps {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+.card {
+	text-align: center;
+	background-color: #F4EEE4;
+	border-width: 0;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 4px 4px 6px lightgray;
+}
+.card-text {
+	text-align: center;
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+}
+.card-title {
+	text-align: center;
+	padding-bottom: 7px;
+	font-family: 'Raleway';
+	font-size: 25px;
+	font-weight: bold;
+}
+.btn {
+	background-color: #D8EAC6;
+	color: #1E5B2E;
+	border-width: 0;
+}
+/* END VOLUNTEER PAGE */
+
+
+
+/* START SOCIAL PAGE */
+#socialevents {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+#concert {
+	max-width: 100%;
+	height: auto;
+	}
+#formal {
+	max-width: 100%;
+	height: auto;
+	}
+#smallevents {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+}
+#gatherings {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Raleway';
+}
+#gstatement {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+#sstatement {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Raleway';
+	font-size: 20px;
+}
+#flicks {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+#selfie {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+#jam {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+#bonfire {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+#cuddling {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+#camping {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+#brown {
+	max-width: 100%;
+	height: auto;
+	align-content: center;
+}
+/* END SOCIAL PAGE */
+
+
+
+/* START CONTACT PAGE */
+#contactus {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+#ourexec {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Raleway';
+	font-size: 75px;
+}
+#insta {
+	max-width: 75%;
+	height: auto;
+	align-content: center;
+	padding-left: 40px;
+}
+#gmail {
+	max-width: 75%;
+	height: auto;
+	align-content: center;
+	padding-left: 40px;
+	padding-top: 20px;
+}
+#pin {
+	max-width: 75%;
+	height: auto;
+	align-content: center;
+}
+h5, h6 {
+	font-family: 'Raleway';
+	font-weight: bold;
+}
+/* END CONTACT PAGE */
+
+
+
